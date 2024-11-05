@@ -1,0 +1,35 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    padding: 30px 100px 30px 100px;
+}
+.div{
+    padding: 20px;
+    background-color: white;
+    color: black;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.button{
+    border-radius: 30px;
+    padding: 8px;
+    border-style: none;
+    font-weight: bold;
+}
+.button1{
+    background-color: rgb(7, 131, 110);
+    color: white;
+}
+.button2{
+    background-color: rgb(233, 161, 28);
+    color: black;
+}
+.button3{
+    background-color: rgb(121, 7, 121);
+    color: white;
+}
+.button:hover{
+    cursor: pointer;
+}
